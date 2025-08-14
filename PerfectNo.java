@@ -32,5 +32,6 @@ public class PerfectNo {
             sc.close();
         }
     }
+    // This is a test change to trigger GitHub Actions
     
 
