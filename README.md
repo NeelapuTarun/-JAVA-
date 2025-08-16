@@ -96,3 +96,5 @@ A **perfect number** is a positive integer that is equal to the sum of its **pro
 ## 🔍 Sample Run
 >>>>>>> a115058e8b75614c01bc5132915c882ca763e12b
 >>>>>>> 506d5e3ac63376b79de461f671eec5cb55ce5ced
+
+
