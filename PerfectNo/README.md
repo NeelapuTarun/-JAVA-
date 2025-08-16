@@ -1,57 +1,3 @@
-<<<<<<< HEAD
-# Even or Odd Checker 🔢
-
-This Java program checks whether a given integer is **even** or **odd**.
-
----
-
-## 📘 What Does It Do?
-
-- Prompts the user to enter a number
-- Validates if the input is an integer
-- Checks if the number is divisible by 2
-- Displays whether the number is even or odd
-
----
-
-## 🧠 Logic Used
-
-A number is:
-- **Even** if `num % 2 == 0`
-- **Odd** if `num % 2 != 0`
-
----
-
-## 💻 How to Run
-
-1. Compile the program:
-   ```bash
-   javac EvenOrOdd.java
-=======
-<<<<<<< HEAD
-# 🔢 Positive or Negative Number Checker
-
-This Java program checks whether a user-input number is **positive**, **zero**, or **negative**. It's a simple example of using conditional statements and the `Scanner` class for input handling.
-
----
-
-## 📌 Features
-
-- Accepts integer input from the user
-- Determines if the number is:
-  - Positive
-  - Zero
-  - Negative
-- Prints the result to the console
-
----
-
-## 🛠️ How to Run
-
-### 1. Compile the program:
-```bash
-javac PositiveOrNegative.java
-=======
 # -JAVA-
 This repository contains all my Java programs, including practice problems, mini-projects, and algorithm implementations.
 
@@ -94,5 +40,3 @@ A **perfect number** is a positive integer that is equal to the sum of its **pro
 ---
 
 ## 🔍 Sample Run
->>>>>>> a115058e8b75614c01bc5132915c882ca763e12b
->>>>>>> 506d5e3ac63376b79de461f671eec5cb55ce5ced
