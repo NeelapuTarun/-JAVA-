@@ -1,0 +1,43 @@
+# Sum of Numbers in a Given Range ➕🔢
+
+This Java program calculates the **sum of all natural numbers** between a user-defined starting and ending value.
+
+---
+
+## 📘 What Does It Do?
+
+- Prompts the user to enter a starting and ending number
+- Validates the input range
+- Calculates the sum of all numbers from `start` to `end` (inclusive)
+- Displays the result
+
+---
+
+## 🧠 Logic Used
+
+The program uses a simple `for` loop:
+```java
+for (int i = start; i <= end; i++) {
+    sum += i;
+}
+
+# Sum of First N Natural Numbers ➕🔢
+
+This Java program calculates the **sum of the first `n` natural numbers** using a simple loop.
+
+---
+
+## 📘 What Does It Do?
+
+- Uses a `for` loop to add numbers from `1` to `n`
+- Displays the total sum
+
+---
+
+## 🧠 Logic Used
+
+The program uses:
+```java
+for (int i = 1; i <= n; i++) {
+    sum += i;
+}
